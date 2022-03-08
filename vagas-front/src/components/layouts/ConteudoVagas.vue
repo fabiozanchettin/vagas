@@ -1,6 +1,6 @@
 <template>
   <div>
-    <p>conteudo component</p>
+    
     <home-vagas></home-vagas>
     <publicar-vaga></publicar-vaga>
   </div>
